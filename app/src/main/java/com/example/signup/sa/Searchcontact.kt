@@ -17,5 +17,4 @@ class searchcontact : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
     }
-
 }

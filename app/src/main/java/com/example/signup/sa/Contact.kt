@@ -20,7 +20,7 @@ class contact : AppCompatActivity() {
             startActivity(intent)
         }
 
-        binding.fabsearch.setOnClickListener{
+        binding.searchview.setOnClickListener{
             val intent=Intent(this, searchcontact::class.java)
             startActivity(intent)
         }
